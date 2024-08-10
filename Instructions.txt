@@ -1,0 +1,5 @@
+To Create an App:-
+npx react-native init project_name
+
+To run an app:-
+npx react-native run-android
